@@ -20,4 +20,6 @@ body {
     font-weight: bolder;
     
   }
-  
+  .svg {
+    fill: black;
+  }
